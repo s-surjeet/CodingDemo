@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "1",
+      "firstName": "Mayank",
+      "lastName": "Thakur",
+      "age": 23,
+      "priority": "high",
+      "email": "mayank.pundir@devronins.com",
+      "phoneNumber": "8899221110"
+    },
+    {
+      "id":"2",
+      "firstName": "Rajni",
+      "lastName": "Singh",
+      "age": 27,
+      "priority": "low",
+      "email": "rajni.singh@devronins.com",
+      "phoneNumber": "7845784578"
+    },
+    {
+      "id": "3",
+      "firstName": "Surjeet",
+      "lastName": "Gangwar",
+      "age": 29,
+      "priority": "high",
+      "email": "surjeet@devronins.com",
+      "phoneNumber": "9574875849"
+    },
+    {
+      "id": "4",
+      "firstName": "Akshay",
+      "lastName": "Pathaniya",
+      "age": 28,
+      "priority": "mid",
+      "email": "akshay.pathaniya@devronins.com",
+      "phoneNumber": "7859687458"
+    },
+    {
+      "id": "5",
+      "firstName": "Jaspal",
+      "lastName": "Sharma",
+      "age": 30,
+      "priority": "mid",
+      "email": "jaspal.sharma@devronins.com",
+      "phoneNumber": "8546975896"
+    },
+    {
+      "id": "6",
+      "firstName": "Sourav",
+      "lastName": "Singh",
+      "age": 23,
+      "priority": "low",
+      "email": "sourav.singh@devronins.com",
+      "phoneNumber": "9485764850"
+    }
+    ]
+}
